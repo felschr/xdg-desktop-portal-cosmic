@@ -6,8 +6,7 @@ license = "GPL-3.0-or-later"
 
 [dependencies]
 anyhow = "1.0.60"
-# ashpd = "0.4.0"
-ashpd = { git = "https://github.com/bilelmoussaoui/ashpd" }
+ashpd = "0.6.2"
 cosmic-protocols = { git = "https://github.com/pop-os/cosmic-protocols" }
 cosmic-client-toolkit = { git = "https://github.com/pop-os/cosmic-protocols" }
 futures = "0.3"
